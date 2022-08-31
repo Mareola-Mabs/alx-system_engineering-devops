@@ -1,0 +1,7 @@
+# I should remember to use file -C -m <file_name> to compile
+
+# after copying the file
+
+0 string SCHOOL School data
+
+!:mime School
