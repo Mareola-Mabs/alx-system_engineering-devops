@@ -1,1 +1,1 @@
-command --arg
+ok command --arg
